@@ -1,4 +1,4 @@
-# Random-Forest-Model-Project
+# Income Prediction Using Random Forest
 ## Overview
 This project demonstrates the implementation of a Random Forest Classifier to predict income levels based on demographic and employment data.
 ### Problem Statement
